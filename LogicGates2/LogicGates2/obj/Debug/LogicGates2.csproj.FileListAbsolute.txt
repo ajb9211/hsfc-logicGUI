@@ -1,0 +1,10 @@
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\bin\Debug\LogicGates2.exe.config
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\bin\Debug\LogicGates2.exe
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\bin\Debug\LogicGates2.pdb
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\obj\Debug\LogicGates2.csprojAssemblyReference.cache
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\obj\Debug\LogicGates2.Form1.resources
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\obj\Debug\LogicGates2.Properties.Resources.resources
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\obj\Debug\LogicGates2.csproj.GenerateResource.cache
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\obj\Debug\LogicGates2.csproj.CoreCompileInputs.cache
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\obj\Debug\LogicGates2.exe
+C:\Users\vcokl\source\repos\LogicGates2\LogicGates2\obj\Debug\LogicGates2.pdb
